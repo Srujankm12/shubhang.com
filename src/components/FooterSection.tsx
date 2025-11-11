@@ -11,7 +11,7 @@ export default function FooterSection() {
               variant="ghost" 
               size="lg"
               className="gap-2 hover:text-primary"
-              onClick={() => window.open('https://linkedin.com', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/shubhanga-cs-595858227/', '_blank')}
               data-testid="button-footer-linkedin"
             >
               <Linkedin className="h-5 w-5" />
@@ -22,7 +22,7 @@ export default function FooterSection() {
               variant="ghost" 
               size="lg"
               className="gap-2 hover:text-primary"
-              onClick={() => window.open('https://github.com', '_blank')}
+              onClick={() => window.open('https://github.com/Shubhangcs', '_blank')}
               data-testid="button-footer-github"
             >
               <Github className="h-5 w-5" />
@@ -44,7 +44,7 @@ export default function FooterSection() {
               variant="ghost" 
               size="lg"
               className="gap-2 hover:text-primary"
-              onClick={() => window.open('tel:8618245146', '_blank')}
+              onClick={() => window.open('tel:8618245446', '_blank')}
               data-testid="button-footer-phone"
             >
               <Phone className="h-5 w-5" />
